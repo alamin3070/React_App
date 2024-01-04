@@ -1,9 +1,10 @@
 import './App.css';
+import card from './card';
 
 function App() {
   return (
     <>
-     <h1 className='text-center text-3xl'>hello react</h1>
+    <card />
     </>
   );
 }
