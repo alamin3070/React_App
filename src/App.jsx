@@ -1,10 +1,8 @@
 import './App.css';
-import card from './card';
-
 function App() {
   return (
     <>
-    <card />
+    <h1 className='text-center 3xl'> Welcome to React App Deployment </h1>
     </>
   );
 }
