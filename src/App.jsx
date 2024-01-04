@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <card/>
+     <h1>hello react</h1>
     </>
   )
 }
