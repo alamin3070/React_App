@@ -1,11 +1,9 @@
 import './App.css';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-     <h1>hello react</h1>
+     <h1 className='text-center text-3xl'>hello react</h1>
     </>
   );
 }
